@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/BlackVPN.Common.Models/BlackVPN.Common.Models.csproj" />
+  <Project Path="src/BlackVPN.Common.Services/BlackVPN.Common.Services.csproj" />
+</Solution>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJgUeazvG6c=",
+  "success": true,
+  "projectFilePath": "C:\\repos\\BlackProjects\\VPN-Common\\src\\BlackVPN.Common.Services\\BlackVPN.Common.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schir\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.3\\microsoft.extensions.dependencyinjection.10.0.3.nupkg.sha512",
+    "C:\\Users\\schir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\bin\Debug\net8.0\BlackVPN.Common.Models.deps.json
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\bin\Debug\net8.0\BlackVPN.Common.Models.dll
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\bin\Debug\net8.0\BlackVPN.Common.Models.pdb
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\obj\Debug\net8.0\BlackVPN.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\obj\Debug\net8.0\BlackVPN.Common.Models.AssemblyInfoInputs.cache
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\obj\Debug\net8.0\BlackVPN.Common.Models.AssemblyInfo.cs
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\obj\Debug\net8.0\BlackVPN.Common.Models.csproj.CoreCompileInputs.cache
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\obj\Debug\net8.0\BlackVPN.Common.Models.sourcelink.json
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\obj\Debug\net8.0\BlackVPN.Common.Models.dll
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\obj\Debug\net8.0\refint\BlackVPN.Common.Models.dll
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\obj\Debug\net8.0\BlackVPN.Common.Models.pdb
+C:\repos\BlackProjects\src\Common\BlackVPN.Common.Models\obj\Debug\net8.0\ref\BlackVPN.Common.Models.dll
