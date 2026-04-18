@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\repos\\BlackProjects\\VPN-Common\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B12123F4-0D3E-B167-1D17-E05095AF29E0}|src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj|c:\\repos\\blackprojects\\vpn-common\\src\\blackvpn.common.models\\auth\\connectiontokenpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12123F4-0D3E-B167-1D17-E05095AF29E0}|src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj|solutionrelative:src\\blackvpn.common.models\\auth\\connectiontokenpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionTokenPayload.cs",
+              "DocumentMoniker": "C:\\repos\\BlackProjects\\VPN-Common\\src\\BlackVPN.Common.Models\\Auth\\ConnectionTokenPayload.cs",
+              "RelativeDocumentMoniker": "src\\BlackVPN.Common.Models\\Auth\\ConnectionTokenPayload.cs",
+              "ToolTip": "C:\\repos\\BlackProjects\\VPN-Common\\src\\BlackVPN.Common.Models\\Auth\\ConnectionTokenPayload.cs",
+              "RelativeToolTip": "src\\BlackVPN.Common.Models\\Auth\\ConnectionTokenPayload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:20:14.737Z",
+              "EditorCaption": ""
             }
           ]
         }
