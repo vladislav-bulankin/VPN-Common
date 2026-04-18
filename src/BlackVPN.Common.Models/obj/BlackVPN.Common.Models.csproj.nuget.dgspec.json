@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\BlackProjects\\VPN-DesktopClient\\VPN-Common\\src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj": {}
+    "C:\\repos\\BlackProjects\\BlackProjectsCommon\\src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj": {}
   },
   "projects": {
-    "C:\\repos\\BlackProjects\\VPN-DesktopClient\\VPN-Common\\src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj": {
+    "C:\\repos\\BlackProjects\\BlackProjectsCommon\\src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\BlackProjects\\VPN-DesktopClient\\VPN-Common\\src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj",
+        "projectUniqueName": "C:\\repos\\BlackProjects\\BlackProjectsCommon\\src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj",
         "projectName": "BlackVPN.Common.Models",
-        "projectPath": "C:\\repos\\BlackProjects\\VPN-DesktopClient\\VPN-Common\\src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj",
+        "projectPath": "C:\\repos\\BlackProjects\\BlackProjectsCommon\\src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj",
         "packagesPath": "C:\\Users\\schir\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\BlackProjects\\VPN-DesktopClient\\VPN-Common\\src\\BlackVPN.Common.Models\\obj\\",
+        "outputPath": "C:\\repos\\BlackProjects\\BlackProjectsCommon\\src\\BlackVPN.Common.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

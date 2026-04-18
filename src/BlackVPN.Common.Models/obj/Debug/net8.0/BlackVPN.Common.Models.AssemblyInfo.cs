@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlackVPN.Common.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77ebb295dbe362dde34e81b51d38f1b7ee605218")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09001e0944931440c813a5c7351cc02cda9b3de7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlackVPN.Common.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlackVPN.Common.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
