@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\repos\\BlackProjects\\VPN-Common\\",
+  "WorkspaceRootPath": "C:\\repos\\BlackProjects\\BlackProjectsCommon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B12123F4-0D3E-B167-1D17-E05095AF29E0}|src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj|c:\\repos\\blackprojects\\vpn-common\\src\\blackvpn.common.models\\auth\\connectiontokenpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B12123F4-0D3E-B167-1D17-E05095AF29E0}|src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj|c:\\repos\\blackprojects\\blackprojectscommon\\src\\blackvpn.common.models\\auth\\connectiontokenpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B12123F4-0D3E-B167-1D17-E05095AF29E0}|src\\BlackVPN.Common.Models\\BlackVPN.Common.Models.csproj|solutionrelative:src\\blackvpn.common.models\\auth\\connectiontokenpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConnectionTokenPayload.cs",
-              "DocumentMoniker": "C:\\repos\\BlackProjects\\VPN-Common\\src\\BlackVPN.Common.Models\\Auth\\ConnectionTokenPayload.cs",
+              "DocumentMoniker": "C:\\repos\\BlackProjects\\BlackProjectsCommon\\src\\BlackVPN.Common.Models\\Auth\\ConnectionTokenPayload.cs",
               "RelativeDocumentMoniker": "src\\BlackVPN.Common.Models\\Auth\\ConnectionTokenPayload.cs",
-              "ToolTip": "C:\\repos\\BlackProjects\\VPN-Common\\src\\BlackVPN.Common.Models\\Auth\\ConnectionTokenPayload.cs",
+              "ToolTip": "C:\\repos\\BlackProjects\\BlackProjectsCommon\\src\\BlackVPN.Common.Models\\Auth\\ConnectionTokenPayload.cs",
               "RelativeToolTip": "src\\BlackVPN.Common.Models\\Auth\\ConnectionTokenPayload.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-18T16:20:14.737Z",
               "EditorCaption": ""
